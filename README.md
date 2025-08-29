@@ -110,3 +110,7 @@ You'll have to wait to try it out to see what the elements are.<br>
 
 ※ Notes when playing on a server
 - The design may differ from single player. Please be careful.
+
+multimc、Prism Laucher推奨です。それ以外は保証、推薦しません。
+
+Multimc and Prism Launcher are recommended. Anything else is not guaranteed or recommended.
